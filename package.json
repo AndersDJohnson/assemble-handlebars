@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "handlebars-helpers": "~0.3.0",
-    "handlebars": "1.0.10",
+    "handlebars": "4.7.10",
     "lodash": "~1.2.1"
   },
   "devDependencies": {
